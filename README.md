@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Robert Todar</h1>
-<h3 align="center">An innovative, teachable, problem-solving software developer with over 5 years of experience. Have developed a wide variety of applications and resources including full-stack web applications, automation and analysis using VBA and Python, SQL, and NoSQL. Trained in HTML5, CSS3, JavaScript ES6, and highly specialized in React and Svelte frontend frameworks. Located in Phoenix, AZ.</h3>
+<p align="center">An innovative, teachable, problem-solving software developer with over 5 years of experience. Have developed a wide variety of applications and resources including full-stack web applications, automation and analysis using VBA and Python, SQL, and NoSQL. Trained in HTML5, CSS3, JavaScript ES6, and highly specialized in React and Svelte frontend frameworks. Located in Phoenix, AZ.</p>
 
 - 📫 How to reach me **robert@roberttodar.com**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
+
+<a href="https://www.roberttodar.com/" target="blank"><img align="center" src="https://www.roberttodar.com/favicon-32x32.png" alt="Portfolio" height="32" width="32" /></a>
 <a href="https://codepen.io/todar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="todar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/robert-todar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="robert-todar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/8309643" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="8309643" height="30" width="40" /></a>
