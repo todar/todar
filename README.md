@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Robert Todar</h1>
-<p align="center">An innovative, teachable, problem-solving software developer with over 6 years of experience. Have developed a wide variety of applications and resources including full-stack web applications — and automation and analysis using VBA, Python, and SQL. Trained in HTML5, CSS3, JavaScript ES6, and highly specialized in React and Svelte frontend frameworks. Located in Phoenix, AZ.</p>
+<p align="center">Software developer with over 6 years of experience within a corporate environment. Highly experienced in advanced VBA within Microsoft Excel — have created a full scale VBA application that saves over 46,000 labor hours a year. Created over 40 business critical SQL queries within DB2 and Oracle. Very knowledgeable with web development as well, especially with functional JavaScript — with expereince in React and Svelte frameworks. Well versed and comfortable in writing Python; however, with limited expereince. Located in Phoenix, AZ.</p>
 
 - 📫 How to reach me **robert@roberttodar.com**
 
